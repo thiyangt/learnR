@@ -1,0 +1,9 @@
+---
+title: "Scripts"
+---
+
+## 30 Dec 2025
+
+[Script 1](src/w1.R)
+
+[Script 2](src/w2.R)

@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
+    "objectID": "src/scripts.html",
+    "href": "src/scripts.html",
+    "title": "Scripts",
     "section": "",
-    "text": "Organisers:\nDr Thiyanga S. Talagala\nDr Priyanga D. Talagala"
+    "text": "Script 1\nScript 2"
+  },
+  {
+    "objectID": "src/scripts.html#dec-2025",
+    "href": "src/scripts.html#dec-2025",
+    "title": "Scripts",
+    "section": "",
+    "text": "Script 1\nScript 2"
   },
   {
     "objectID": "about.html",
@@ -82,5 +89,12 @@
     "title": "R-Kickstart Workshop",
     "section": "rename",
     "text": "rename\n\nweather_report\n\n# A tibble: 120 × 5\n   Date_downloaded Reporting_Time                  Type  Name  Daily_Rainfall_mm\n   &lt;chr&gt;           &lt;chr&gt;                           &lt;chr&gt; &lt;chr&gt; &lt;chr&gt;            \n 1 2025-11-28      for the 24 hour period ending … Mete… Anur… 331              \n 2 2025-11-28      for the 24 hour period ending … Mete… Badu… 188.8            \n 3 2025-11-28      for the 24 hour period ending … Mete… Band… 113.7            \n 4 2025-11-28      for the 24 hour period ending … Mete… Batt… 26.4             \n 5 2025-11-28      for the 24 hour period ending … Mete… Colo… 166.2            \n 6 2025-11-28      for the 24 hour period ending … Mete… Galle 12.2             \n 7 2025-11-28      for the 24 hour period ending … Mete… Hamb… 14.7             \n 8 2025-11-28      for the 24 hour period ending … Mete… Jaff… 32               \n 9 2025-11-28      for the 24 hour period ending … Mete… Mona… 73.5999999999999…\n10 2025-11-28      for the 24 hour period ending … Mete… Katu… 230.4            \n# ℹ 110 more rows\n\nweather_report |&gt;\n  rename(Rainfall = Daily_Rainfall_mm)\n\n# A tibble: 120 × 5\n   Date_downloaded Reporting_Time                           Type  Name  Rainfall\n   &lt;chr&gt;           &lt;chr&gt;                                    &lt;chr&gt; &lt;chr&gt; &lt;chr&gt;   \n 1 2025-11-28      for the 24 hour period ending at 0830SL… Mete… Anur… 331     \n 2 2025-11-28      for the 24 hour period ending at 0830SL… Mete… Badu… 188.8   \n 3 2025-11-28      for the 24 hour period ending at 0830SL… Mete… Band… 113.7   \n 4 2025-11-28      for the 24 hour period ending at 0830SL… Mete… Batt… 26.4    \n 5 2025-11-28      for the 24 hour period ending at 0830SL… Mete… Colo… 166.2   \n 6 2025-11-28      for the 24 hour period ending at 0830SL… Mete… Galle 12.2    \n 7 2025-11-28      for the 24 hour period ending at 0830SL… Mete… Hamb… 14.7    \n 8 2025-11-28      for the 24 hour period ending at 0830SL… Mete… Jaff… 32      \n 9 2025-11-28      for the 24 hour period ending at 0830SL… Mete… Mona… 73.5999…\n10 2025-11-28      for the 24 hour period ending at 0830SL… Mete… Katu… 230.4   \n# ℹ 110 more rows\n\nweather_report\n\n# A tibble: 120 × 5\n   Date_downloaded Reporting_Time                  Type  Name  Daily_Rainfall_mm\n   &lt;chr&gt;           &lt;chr&gt;                           &lt;chr&gt; &lt;chr&gt; &lt;chr&gt;            \n 1 2025-11-28      for the 24 hour period ending … Mete… Anur… 331              \n 2 2025-11-28      for the 24 hour period ending … Mete… Badu… 188.8            \n 3 2025-11-28      for the 24 hour period ending … Mete… Band… 113.7            \n 4 2025-11-28      for the 24 hour period ending … Mete… Batt… 26.4             \n 5 2025-11-28      for the 24 hour period ending … Mete… Colo… 166.2            \n 6 2025-11-28      for the 24 hour period ending … Mete… Galle 12.2             \n 7 2025-11-28      for the 24 hour period ending … Mete… Hamb… 14.7             \n 8 2025-11-28      for the 24 hour period ending … Mete… Jaff… 32               \n 9 2025-11-28      for the 24 hour period ending … Mete… Mona… 73.5999999999999…\n10 2025-11-28      for the 24 hour period ending … Mete… Katu… 230.4            \n# ℹ 110 more rows"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Organisers:\nDr Thiyanga S. Talagala\nDr Priyanga D. Talagala"
   }
 ]
