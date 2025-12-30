@@ -1,14 +1,14 @@
 [
   {
-    "objectID": "src/scripts.html",
-    "href": "src/scripts.html",
+    "objectID": "scripts.html",
+    "href": "scripts.html",
     "title": "Scripts",
     "section": "",
     "text": "Script 1\nScript 2"
   },
   {
-    "objectID": "src/scripts.html#dec-2025",
-    "href": "src/scripts.html#dec-2025",
+    "objectID": "scripts.html#dec-2025",
+    "href": "scripts.html#dec-2025",
     "title": "Scripts",
     "section": "",
     "text": "Script 1\nScript 2"
@@ -96,19 +96,5 @@
     "title": "Home",
     "section": "",
     "text": "Organisers:\nDr Thiyanga S. Talagala\nDr Priyanga D. Talagala"
-  },
-  {
-    "objectID": "scripts.html",
-    "href": "scripts.html",
-    "title": "Scripts",
-    "section": "",
-    "text": "Script 1\nScript 2"
-  },
-  {
-    "objectID": "scripts.html#dec-2025",
-    "href": "scripts.html#dec-2025",
-    "title": "Scripts",
-    "section": "",
-    "text": "Script 1\nScript 2"
   }
 ]
