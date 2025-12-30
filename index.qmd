@@ -1,0 +1,11 @@
+---
+title: "Home"
+---
+
+Organisers:
+
+[Dr Thiyanga S. Talagala](https://thiyanga.netlify.app/)
+
+[Dr Priyanga D. Talagala](https://prital.netlify.app/)
+
+![](flyr.png)
